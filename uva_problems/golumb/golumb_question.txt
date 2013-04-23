@@ -24,6 +24,7 @@ Sample Input
 9999
 123456
 1000000000
+0
 
 
 Sample Output
