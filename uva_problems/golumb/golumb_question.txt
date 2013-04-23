@@ -1,0 +1,33 @@
+Solomon Golumb's self-describing sequence is the only nondecreasing
+sequence of positive integers with the property that it contains
+exactly f(k) occurrences of k for each k. A few moments thought
+reveals that the sequence must begin as follows.:
+
+f(1) = 1
+f(2) = 2
+f(3) = 2
+f(4) = 4
+f(5) = 3
+f(6) = 4
+f(7) = 4
+f(8) = 4
+f(9) = 5
+f(10) = 5
+f(11) = 5
+f(12) = 6
+
+In this problem, you are expected to write a program that calculates
+the value of f(n) given a value of n
+
+Sample Input
+100
+9999
+123456
+1000000000
+
+
+Sample Output
+21
+356
+1684
+438744     
